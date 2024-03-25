@@ -1,5 +1,5 @@
-title = "Data Table Ninjas"
-baseURL = "https://datatableninjas.com"
+title = "LASSO Lab"
+baseURL = "https://lassolab.org"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Data Table Ninjas"
+    title = "LASSO LAB"
     weight = 1
     contentDir = "content/en"
 
@@ -33,6 +33,6 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "github"
-url = "https://github.com/Data-Table-Ninjas"
+url = "https://github.com/hockinglab"
 
 
