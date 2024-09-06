@@ -4,6 +4,8 @@ description: "Learning Algorithms, Statistical Software, Optimization"
 theme_version: '2.8.2'
 ---
 
+## Introduction
+
 The LASSO group is an academic research laboratory specializing in
 
 * Learning Algorithms: fundamental new algorithms that learn how to make prediction from large data sets.
@@ -22,13 +24,37 @@ Tibshirani, "Regression shrinkage and selection via the lasso," JRSSB
 (1996), which is an inspiration for our research into interpretable
 machine learning.
 
+## Selected funded projects
+
+* "Efficient algorithms and software for change-point detection." PI
+  Toby Hocking, travel grant from DATAIA (Artificial Intelligence
+  Institute of Université Paris-Saclay), 25,000 euros, Academic year
+  2024-2025.
+* "POSE: Phase II: Expanding the data.table ecosystem for efficient
+  big data manipulation in R." PI Toby Hocking, National Science
+  Foundation grant [2303612](https://reporter.nih.gov/project-details/11129998), from program Pathways to Enable Open-Source
+  Ecosystems (POSE), US$731,881, Sep 2023-Aug 2025. Co-PIs Igor
+  Steinmacher and Marco Gerosa.
+* "Addressing Structural Disparities in Autism Spectrum Disorder
+  through Analysis of Secondary Data (ASD3)." PI Olivia Lindly, Co-PI
+  Toby Hocking, National Institute of Mental Health grant
+  3R01MH134177-02S1, US$455,660, Aug 2023 to June 2027.
+* "MIM: Discovering in reverse – using isotopic translation of omics
+  to reveal ecological interactions in microbiomes.", PI Jane Marks,
+  Co-PI Toby Hocking, National Science Foundation grant 2125088, from
+  program URoL-Understanding the Rules of Life, US$3,000,000, Sept
+  2021 to Aug 2026.
+* "RcppDeepState: an easy way to fuzz test compiled code in R
+  packages." PI Toby Hocking, R Consortium Grant, US$34,000, Jan-Dec
+  2020.
+
 ## Who we are
 
 ### [Toby Dylan Hocking](http://tdhock.github.io/)
 
-Professeur Agrégé / Tenured Associate Professor, 
-  [Université de Sherbrooke](https://www.usherbrooke.ca),
-  [Département d'informatique](https://www.usherbrooke.ca/informatique/).
+Professeur Agrégé / Tenured Associate Professor, [Université de
+  Sherbrooke](https://www.usherbrooke.ca), [Département
+  d'informatique](https://www.usherbrooke.ca/informatique/).
 
 ### You?
 
