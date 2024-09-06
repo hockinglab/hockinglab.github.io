@@ -10,9 +10,17 @@ The LASSO group is an academic research laboratory specializing in
 * Statistical Software: new free/open-source software packages for large data analysis.
 * Optimization: algorithms based on ideas from convex optimization (gradient descent) and discrete optimization (dynamic programming).
 
-Machine learning is a branch of Artificial Intelligence which is concerned with algorithms for large data. Our lab works in this area, with particular expertise in algorithms for analysis of scientific data, from fields such as genomics, neuroscience, medicine,
+Machine learning is a branch of Artificial Intelligence which is
+concerned with algorithms for large data. Our lab works in this area,
+with particular expertise in algorithms for analysis of scientific
+data, from fields such as genomics, neuroscience, medicine,
 microbiome, cybersecurity, robotics, satellite/sonar imagery,
 climate/carbon modeling.
+
+The acronym "LASSO" is a reference to the highly influential paper by
+Tibshirani, "Regression shrinkage and selection via the lasso," JRSSB
+(1996), which is an inspiration for our research into interpretable
+machine learning.
 
 ## Who we are
 
@@ -24,4 +32,6 @@ Professeur Agrégé / Tenured Associate Professor,
 
 ### You?
 
-If you are interested to join the LASSO Lab, please [read the application instructions](https://tdhock.github.io/blog/2024/application/).
+If you are interested to join the LASSO Lab, please [read the
+application
+instructions](https://tdhock.github.io/blog/2024/application/).
