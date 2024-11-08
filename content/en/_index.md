@@ -6,7 +6,11 @@ theme_version: '2.8.2'
 
 [Traduction en français](fr)
 
-## Introduction
+## Presentation of the lab in 5 minutes
+
+[Google slides, updated Nov 2024](https://docs.google.com/presentation/d/1QQNNjdupQZm34XIsO_nnF-ilnH5R-tRBvG82oL1tOB0/edit?usp=sharing).
+
+## Research areas
 
 The LASSO group is an academic research laboratory specializing in
 
