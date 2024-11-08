@@ -5,7 +5,7 @@ description: "Logiciels pour l'Apprentissage, la StatiStique et l'Optimisation"
 
 ## Diapos pour présenter le labo en 5 min
 
-[Présentation du labo en quelques diapos : mise à jour en nov 2024](https://docs.google.com/presentation/d/1wmP9GNUwOO0Qq1ZyWYmsFzlhZuIX9EO9uCD2fSpZmK4/edit#slide=id.g31335e06898_0_37).
+[Présentation du labo en quelques diapos : mise à jour en nov 2024](https://docs.google.com/presentation/d/1wmP9GNUwOO0Qq1ZyWYmsFzlhZuIX9EO9uCD2fSpZmK4).
 
 ## Thèmes de recherche
 
