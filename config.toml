@@ -12,9 +12,13 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "LASSO LAB"
+    title = "LASSO Lab"
     weight = 1
     contentDir = "content/en"
+  [languages.fr]
+    title = "LASSO Lab"
+    weight = 1
+    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"

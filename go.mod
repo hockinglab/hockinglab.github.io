@@ -1,4 +1,4 @@
-module github.com/ggviz/ggviz.github.io
+module github.com/hockinglab/hockinglab.github.io
 
 go 1.19
 
